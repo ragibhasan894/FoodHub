@@ -1,0 +1,24 @@
+.user_img_link{
+    height: 50px;
+    width: 50px;
+}
+.user_img{
+    background-size: 50px 50px;
+    border-radius: 50%;
+    display: block;
+    overflow: hidden;
+    height: 50px;
+    width: 50px;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
